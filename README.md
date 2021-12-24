@@ -1,4 +1,4 @@
-# comunicaciones4
+# comunicaciones 4
 Curso de comunicaciones 4, EIME, ingenieria, USAC
 
 Procesamiento de senales con Open CV en Python 3
